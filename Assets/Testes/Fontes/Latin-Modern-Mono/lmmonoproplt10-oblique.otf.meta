@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 800025e3299cdc04686a3a014f112211
+timeCreated: 1538486517
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Latin Modern Mono Prop Light
+  fontNames:
+  - Latin Modern Mono Prop Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62b67bf0da6707c4ea477e057bda9948, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c053d997b15385f47a19fb6ca93e377e
+timeCreated: 1538486518
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Latin Modern Roman
+  fontNames:
+  - Latin Modern Roman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 58f5a7a44e49e7d449b5047477ac98fc, type: 3}
+  - {fileID: 12800000, guid: ab590b8ee7ba4224a9532a789e37d19a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

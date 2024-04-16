@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a7c52ee7f158c464681933fb41735c51
+timeCreated: 1538486518
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Latin Modern Mono Light
+  fontNames:
+  - Latin Modern Mono Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9c21f00098b2ad34c9c36640eb2a5b0c, type: 3}
+  - {fileID: 12800000, guid: 7dc4db8ba0264e445ae58ace059af5e1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

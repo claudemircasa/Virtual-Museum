@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: afa1c4bfdaf027245929a2add74eab34
+timeCreated: 1538486518
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Latin Modern Mono Caps
+  fontNames:
+  - Latin Modern Mono Caps
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 24071a33a960eaf4792c56f52eea527f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

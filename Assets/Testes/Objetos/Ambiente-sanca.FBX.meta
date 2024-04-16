@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: cd8dfbbddaeaada4b93480bc66889d30
+timeCreated: 1532372234
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ambiente-Parcial
+    100002: //RootNode
+    100004: Box001
+    100006: Box002
+    100008: "Ch\xE3o"
+    100010: EmConstrucao
+    100012: Parede
+    100014: PlacaBiografia
+    100016: Plane032
+    100018: sanca-003
+    100020: sanca-004
+    100022: sanca-005
+    100024: sanca-006
+    100026: sanca-007
+    100028: sanca-008
+    100030: sanca-009
+    100032: sanca-010
+    100034: Sanca-Principal
+    100036: Sanca-Profetas
+    100038: Sancas
+    100040: Teto
+    400000: Ambiente-Parcial
+    400002: //RootNode
+    400004: Box001
+    400006: Box002
+    400008: "Ch\xE3o"
+    400010: EmConstrucao
+    400012: Parede
+    400014: PlacaBiografia
+    400016: Plane032
+    400018: sanca-003
+    400020: sanca-004
+    400022: sanca-005
+    400024: sanca-006
+    400026: sanca-007
+    400028: sanca-008
+    400030: sanca-009
+    400032: sanca-010
+    400034: Sanca-Principal
+    400036: Sanca-Profetas
+    400038: Sancas
+    400040: Teto
+    2100000: Parede
+    2100002: Chao
+    2100004: Teto
+    2100006: Porta
+    2100008: Aviso
+    2100010: Placa
+    2100012: Sanca
+    2300000: Box001
+    2300002: Box002
+    2300004: "Ch\xE3o"
+    2300006: Parede
+    2300008: Plane032
+    2300010: sanca-003
+    2300012: sanca-004
+    2300014: sanca-005
+    2300016: sanca-006
+    2300018: sanca-007
+    2300020: sanca-008
+    2300022: sanca-009
+    2300024: sanca-010
+    2300026: Teto
+    3300000: Box001
+    3300002: Box002
+    3300004: "Ch\xE3o"
+    3300006: Parede
+    3300008: Plane032
+    3300010: sanca-003
+    3300012: sanca-004
+    3300014: sanca-005
+    3300016: sanca-006
+    3300018: sanca-007
+    3300020: sanca-008
+    3300022: sanca-009
+    3300024: sanca-010
+    3300026: Teto
+    4300000: Parede
+    4300002: "Ch\xE3o"
+    4300004: Teto
+    4300006: Box001
+    4300008: Plane032
+    4300010: Box002
+    4300012: sanca-008
+    4300014: sanca-009
+    4300016: sanca-010
+    4300018: sanca-007
+    4300020: sanca-003
+    4300022: sanca-005
+    4300024: sanca-004
+    4300026: sanca-006
+    6400000: Box001
+    6400002: Box002
+    6400004: "Ch\xE3o"
+    6400006: Parede
+    6400008: Plane032
+    6400010: sanca-003
+    6400012: sanca-004
+    6400014: sanca-005
+    6400016: sanca-006
+    6400018: sanca-007
+    6400020: sanca-008
+    6400022: sanca-009
+    6400024: sanca-010
+    6400026: Teto
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao
+    second: {fileID: 2100000, guid: 06dc5baa2f7144748abca3bc02e65fe5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
